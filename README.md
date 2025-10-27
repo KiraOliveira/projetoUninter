@@ -33,5 +33,7 @@ cd projetoUninter
 ---
 
 ## Exibição
+<img width="1311" height="611" alt="Captura de tela de 2025-10-27 16-20-03" src="https://github.com/user-attachments/assets/a2bb3566-78ec-41ea-945c-401cfa6e3a3c" />
+
 
 
